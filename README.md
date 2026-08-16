@@ -122,7 +122,7 @@ Building projects, solving problems, and continuously improving my development s
 <td width="50%">
 
 ### 🎓 Student Performance Predictor
-
+**Project:** https://github.com/BHUSHAN-creator/Student_Performance_Predictor_Ai_ML.git
 Machine Learning application that predicts student exam performance.
 
 **Tech Stack**
@@ -143,7 +143,7 @@ Machine Learning application that predicts student exam performance.
 <td width="50%">
 
 ### 🐟 Bhoiraj Fisheries Management System
-
+**Project:** https://github.com/BHUSHAN-creator/Bhoiraj-Fisheries-Management-System.git
 Management platform designed for organizational document and administration management.
 
 **Tech Stack**
@@ -264,11 +264,11 @@ Python
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/bhushanbhoiofficial/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:bhushanbhoi04052004@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
