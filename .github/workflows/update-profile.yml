@@ -25,7 +25,6 @@ jobs:
         run: |
           python - <<'PY'
           import json
-          import os
           import urllib.request
           import re
 
@@ -48,12 +47,21 @@ jobs:
           with urllib.request.urlopen(request) as response:
               repos = json.load(response)
 
+          # Remove forks and the profile repository itself
           repos = [
               repo for repo in repos
               if not repo["fork"] and repo["name"] != username
           ]
 
+          # -----------------------------
+          # Repository count
+          # -----------------------------
+
           total_repositories = len(repos)
+
+          # -----------------------------
+          # Latest projects
+          # -----------------------------
 
           recent_projects = repos[:6]
 
@@ -62,10 +70,11 @@ jobs:
               for repo in recent_projects
           )
 
-          with open(readme, "r", encoding="utf-8") as file:
-              content = file.read()
+          # -----------------------------
+          # Featured projects
+          # -----------------------------
 
-                    featured = repos[:6]
+          featured = repos[:6]
 
           featured_text = "\n".join(
               f"| 🚀 [{repo['name']}]({repo['html_url']}) | "
@@ -73,6 +82,43 @@ jobs:
               f"`{repo.get('language') or 'N/A'}` |"
               for repo in featured
           )
+
+          # -----------------------------
+          # Read README
+          # -----------------------------
+
+          with open(readme, "r", encoding="utf-8") as file:
+              content = file.read()
+
+          # -----------------------------
+          # Update repository count
+          # -----------------------------
+
+          content = re.sub(
+              r"<!-- AUTO_REPO_COUNT_START -->.*?<!-- AUTO_REPO_COUNT_END -->",
+              f"""<!-- AUTO_REPO_COUNT_START -->
+          **📦 Public Projects:** {total_repositories}
+          <!-- AUTO_REPO_COUNT_END -->""",
+              content,
+              flags=re.S
+          )
+
+          # -----------------------------
+          # Update Latest Projects
+          # -----------------------------
+
+          content = re.sub(
+              r"<!-- AUTO_PROJECTS_START -->.*?<!-- AUTO_PROJECTS_END -->",
+              f"""<!-- AUTO_PROJECTS_START -->
+          {project_text}
+          <!-- AUTO_PROJECTS_END -->""",
+              content,
+              flags=re.S
+          )
+
+          # -----------------------------
+          # Update Featured Projects
+          # -----------------------------
 
           content = re.sub(
               r"<!-- AUTO_FEATURED_PROJECTS_START -->.*?<!-- AUTO_FEATURED_PROJECTS_END -->",
@@ -86,10 +132,18 @@ jobs:
               content,
               flags=re.S
           )
+
+          # -----------------------------
+          # Save README
+          # -----------------------------
+
           with open(readme, "w", encoding="utf-8") as file:
               file.write(content)
 
-          print(f"Updated dashboard: {total_repositories} repositories")
+          print(f"Updated dashboard successfully.")
+          print(f"Public projects: {total_repositories}")
+          print(f"Featured projects: {len(featured)}")
+
           PY
 
       - name: Commit dashboard changes
