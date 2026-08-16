@@ -102,11 +102,13 @@ Building projects, solving problems, and continuously improving my development s
 ## 🚀 Latest Projects
 
 <!-- AUTO_REPO_COUNT_START -->
-**📦 Public Projects:** 0
+**📦 Public Projects:** 3
 <!-- AUTO_REPO_COUNT_END -->
 
 <!-- AUTO_PROJECTS_START -->
-<!-- Projects will be added automatically -->
+- 🚀 [Student_Performance_Predictor_Ai_ML](https://github.com/BHUSHAN-creator/Student_Performance_Predictor_Ai_ML)
+- 🚀 [Covid19-Global-Dashboard-Tableau](https://github.com/BHUSHAN-creator/Covid19-Global-Dashboard-Tableau)
+- 🚀 [REAL-ESTATE-SQL-PROJECT](https://github.com/BHUSHAN-creator/REAL-ESTATE-SQL-PROJECT)
 <!-- AUTO_PROJECTS_END -->
 
 # 📊 Coding Insights
