@@ -1,8 +1,5 @@
 <div align="center">
-<img src="./banner.png" width="100%" />
-</div>
 
-<br>
 # 👋 Hi, I'm BHUSHAN
 
 ### 🐍 Python Developer • Backend Developer • SQL & Data Enthusiast
