@@ -1,5 +1,10 @@
 <div align="center">
+        
+<img src="./a_wide_dark_themed_tech_banner_hero_graphic_for_a.png" width="100%" />
 
+</div>
+
+<br>
 # 👋 Hi, I'm BHUSHAN
 
 ### 🐍 Python Developer • Backend Developer • SQL & Data Enthusiast
