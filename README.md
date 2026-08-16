@@ -102,13 +102,14 @@ Building projects, solving problems, and continuously improving my development s
 ## 🚀 Latest Projects
 
 <!-- AUTO_REPO_COUNT_START -->
-**📦 Public Projects:** 3
+**📦 Public Projects:** 4
 <!-- AUTO_REPO_COUNT_END -->
 
 <!-- AUTO_PROJECTS_START -->
-- 🚀 [Student_Performance_Predictor_Ai_ML](https://github.com/BHUSHANBHOI-DEVELOPER/Student_Performance_Predictor_Ai_ML)
-- 🚀 [Covid19-Global-Dashboard-Tableau](https://github.com/BHUSHANBHOI-DEVELOPER/Covid19-Global-Dashboard-Tableau)
-- 🚀 [REAL-ESTATE-SQL-PROJECT](https://github.com/BHUSHANBHOI-DEVELOPER/REAL-ESTATE-SQL-PROJECT)
+- 🚀 [REAL-ESTATE-SQL-PROJECT](https://github.com/BHUSHAN-creator/REAL-ESTATE-SQL-PROJECT)
+- 🚀 [Student_Performance_Predictor_Ai_ML](https://github.com/BHUSHAN-creator/Student_Performance_Predictor_Ai_ML)
+- 🚀 [Covid19-Global-Dashboard-Tableau](https://github.com/BHUSHAN-creator/Covid19-Global-Dashboard-Tableau)
+- 🚀 [Bhoiraj-Fisheries-Management-System](https://github.com/BHUSHAN-creator/Bhoiraj-Fisheries-Management-System)
 <!-- AUTO_PROJECTS_END -->
 
 # 📊 Coding Insights
