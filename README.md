@@ -128,7 +128,9 @@ Building projects, solving problems, and continuously improving my development s
 ---
 
 # 🚀 Featured Projects
+<div align="center">
 
+<!-- AUTO_FEATURED_PROJECTS_START -->
 <table>
 <tr>
 
@@ -176,7 +178,9 @@ Management platform designed for organizational document and administration mana
 
 </tr>
 </table>
+<!-- AUTO_FEATURED_PROJECTS_END -->
 
+</div>
 ---
 
 # 🧠 Currently Learning
