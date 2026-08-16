@@ -131,53 +131,13 @@ Building projects, solving problems, and continuously improving my development s
 <div align="center">
 
 <!-- AUTO_FEATURED_PROJECTS_START -->
-<table>
-<tr>
 
-<td width="50%">
+| 🚀 Project | 📝 Description | 🔧 Technology |
+|---|---|---|
+| 🚀 [Student_Performance_Predictor_Ai_ML](https://github.com/BHUSHAN-creator/Student_Performance_Predictor_Ai_ML) | No description provided | `Jupyter Notebook` |
+| 🚀 [Covid19-Global-Dashboard-Tableau](https://github.com/BHUSHAN-creator/Covid19-Global-Dashboard-Tableau) | Interactive COVID-19 Global Dashboard built using Tableau. | `N/A` |
+| 🚀 [REAL-ESTATE-SQL-PROJECT](https://github.com/BHUSHAN-creator/REAL-ESTATE-SQL-PROJECT) | A MySQL-based Real Estate Management System for managing properties, agents, buyers, bookings, and payments using relational database concepts. | `N/A` |
 
-### 🎓 Student Performance Predictor
-**Project:** https://github.com/BHUSHAN-creator/Student_Performance_Predictor_Ai_ML.git
-Machine Learning application that predicts student exam performance.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy`
-`Scikit-learn` `Flask` `Matplotlib`
-
-**Highlights**
-
-* 📊 Data preprocessing
-* 🤖 ML model training
-* 📈 Model evaluation
-* 🌐 Flask web application
-* 💾 Model persistence
-
-</td>
-
-<td width="50%">
-
-### 🐟 Bhoiraj Fisheries Management System
-**Project:** https://github.com/BHUSHAN-creator/Bhoiraj-Fisheries-Management-System.git
-Management platform designed for organizational document and administration management.
-
-**Tech Stack**
-
-`Python` `Flask` `MySQL`
-`HTML` `CSS` `JavaScript`
-
-**Highlights**
-
-* 🔐 Authentication
-* 👨‍💼 Admin dashboard
-* 📁 Document management
-* 🔔 Notifications
-* 🗄️ Database management
-
-</td>
-
-</tr>
-</table>
 <!-- AUTO_FEATURED_PROJECTS_END -->
 
 </div>
