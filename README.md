@@ -99,10 +99,17 @@ Building projects, solving problems, and continuously improving my development s
 </div>
 
 ---
+## 🚀 Latest Projects
+
+<!-- AUTO_REPO_COUNT_START -->
+**📦 Public Projects:** 0
+<!-- AUTO_REPO_COUNT_END -->
+
+<!-- AUTO_PROJECTS_START -->
+<!-- Projects will be added automatically -->
+<!-- AUTO_PROJECTS_END -->
 
 # 📊 Coding Insights
-
-<div align="center">
 
 | Metric             | Focus                        |
 | ------------------ | ---------------------------- |
