@@ -254,7 +254,7 @@ Python
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHUSHAN-creator&theme=tokyonight" width="95%" />
 
 </div>
 
