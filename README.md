@@ -84,9 +84,9 @@ Building projects, solving problems, and continuously improving my development s
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=BHUSHAN-creator&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=BHUSHANBHOI-DEVELOPER&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BHUSHAN-creator&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BHUSHANBHOI-DEVELOPER&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
@@ -94,7 +94,7 @@ Building projects, solving problems, and continuously improving my development s
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BHUSHAN-creator&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=BHUSHANBHOI-DEVELOPER&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
@@ -138,7 +138,7 @@ Building projects, solving problems, and continuously improving my development s
 
 Machine Learning application that predicts student exam performance.
 
-**🔗 Project:** [View Repository](https://github.com/BHUSHAN-creator/student-performance-predictor)
+**🔗 Project:** [View Repository](https://github.com/BHUSHANBHOI-DEVELOPER/student-performance-predictor)
 
 **Tech Stack**
 
@@ -161,7 +161,7 @@ Machine Learning application that predicts student exam performance.
 
 Management platform designed for organizational document and administration management.
 
-**🔗 Project:** [View Repository](https://github.com/BHUSHAN-creator/Bhoiraj-Fisheries-Management-System)
+**🔗 Project:** [View Repository](https://github.com/BHUSHANBHOI-DEVELOPER/Bhoiraj-Fisheries-Management-System)
 
 **Tech Stack**
 
@@ -266,7 +266,7 @@ Python
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHUSHAN-creator&theme=tokyonight" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHUSHANBHOI-DEVELOPER&theme=tokyonight" width="95%" />
 
 </div>
 
