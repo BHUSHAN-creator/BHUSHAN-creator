@@ -106,9 +106,9 @@ Building projects, solving problems, and continuously improving my development s
 <!-- AUTO_REPO_COUNT_END -->
 
 <!-- AUTO_PROJECTS_START -->
-- 🚀 [Student_Performance_Predictor_Ai_ML](https://github.com/BHUSHAN-creator/Student_Performance_Predictor_Ai_ML)
-- 🚀 [Covid19-Global-Dashboard-Tableau](https://github.com/BHUSHAN-creator/Covid19-Global-Dashboard-Tableau)
-- 🚀 [REAL-ESTATE-SQL-PROJECT](https://github.com/BHUSHAN-creator/REAL-ESTATE-SQL-PROJECT)
+- 🚀 [Student_Performance_Predictor_Ai_ML](https://github.com/BHUSHANBHOI-DEVELOPER/Student_Performance_Predictor_Ai_ML)
+- 🚀 [Covid19-Global-Dashboard-Tableau](https://github.com/BHUSHANBHOI-DEVELOPER/Covid19-Global-Dashboard-Tableau)
+- 🚀 [REAL-ESTATE-SQL-PROJECT](https://github.com/BHUSHANBHOI-DEVELOPER/REAL-ESTATE-SQL-PROJECT)
 <!-- AUTO_PROJECTS_END -->
 
 # 📊 Coding Insights
