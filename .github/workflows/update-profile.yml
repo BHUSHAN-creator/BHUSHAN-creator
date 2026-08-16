@@ -28,7 +28,7 @@ jobs:
           import urllib.request
           import re
 
-          username = "BHUSHAN-creator"
+          username = "BHUSHANBHOI-DEVELOPER"
           readme = "README.md"
 
           url = (
