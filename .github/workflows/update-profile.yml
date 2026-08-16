@@ -65,24 +65,27 @@ jobs:
           with open(readme, "r", encoding="utf-8") as file:
               content = file.read()
 
-          content = re.sub(
-              r"<!-- AUTO_REPO_COUNT_START -->.*?<!-- AUTO_REPO_COUNT_END -->",
-              f"""<!-- AUTO_REPO_COUNT_START -->
-          **📦 Public Projects:** {total_repositories}
-          <!-- AUTO_REPO_COUNT_END -->""",
-              content,
-              flags=re.S
+                    featured = repos[:6]
+
+          featured_text = "\n".join(
+              f"| 🚀 [{repo['name']}]({repo['html_url']}) | "
+              f"{repo.get('description') or 'No description provided'} | "
+              f"`{repo.get('language') or 'N/A'}` |"
+              for repo in featured
           )
 
           content = re.sub(
-              r"<!-- AUTO_PROJECTS_START -->.*?<!-- AUTO_PROJECTS_END -->",
-              f"""<!-- AUTO_PROJECTS_START -->
-          {project_text}
-          <!-- AUTO_PROJECTS_END -->""",
+              r"<!-- AUTO_FEATURED_PROJECTS_START -->.*?<!-- AUTO_FEATURED_PROJECTS_END -->",
+              f"""<!-- AUTO_FEATURED_PROJECTS_START -->
+
+          | 🚀 Project | 📝 Description | 🔧 Technology |
+          |---|---|---|
+          {featured_text}
+
+          <!-- AUTO_FEATURED_PROJECTS_END -->""",
               content,
               flags=re.S
           )
-
           with open(readme, "w", encoding="utf-8") as file:
               file.write(content)
 
