@@ -84,9 +84,9 @@ Building projects, solving problems, and continuously improving my development s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BHUSHAN-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=BHUSHAN-creator&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHUSHAN-creator&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BHUSHAN-creator&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
@@ -94,7 +94,7 @@ Building projects, solving problems, and continuously improving my development s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://streak-stats.demolab.com?user=BHUSHAN-creator&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
